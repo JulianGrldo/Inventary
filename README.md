@@ -51,7 +51,7 @@ El archivo Excel incluye varias hojas con funciones específicas:
 - Macros habilitadas (VBA)
 
 ## 📌 Nota de Seguridad
-Al abrir el archivo, Excel puede advertir sobre macros potencialmente peligrosas. Este archivo contiene código VBA necesario para su funcionamiento, asegúrate de habilitarlas solo si confías en el origen del archivo.
+Al abrir el archivo, Excel puede advertir sobre macros potencialmente peligrosas. Este archivo contiene código VBA necesario para su funcionamiento, asegúrate de habilitarlas.
 
 ## 📷 Captura de Pantalla
 
@@ -59,4 +59,4 @@ Al abrir el archivo, Excel puede advertir sobre macros potencialmente peligrosas
 
 
 ## 🤝 Autor
-**Julian David Isaza Giraldo**
+**Julian Isaza Giraldo**
