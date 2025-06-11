@@ -58,5 +58,12 @@ Al abrir el archivo, Excel puede advertir sobre macros potencialmente peligrosas
 ![image](https://github.com/user-attachments/assets/5c23dd85-ce1e-4047-a6a4-ef8c3a0385a0)
 
 
+![image](https://github.com/user-attachments/assets/3fb50a08-4610-40a0-a598-97d6c70ae5c8)
+
+![image](https://github.com/user-attachments/assets/e2a3a67d-12b0-4d4f-8b95-ce9f64c5581a)
+
+
+
+
 ## 🤝 Autor
 **Julian Isaza Giraldo**
